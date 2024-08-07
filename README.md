@@ -1,15 +1,16 @@
 <h1>Temperature Conversion Program</h1> <br>
-A Caped Crusader's Guide to Temperature Conversion
+<h3>A Caped Crusader's Guide to Temperature Conversion</h3><br><br>
 
-This project is a web-based temperature conversion tool, styled with a Batman theme. It allows users to convert temperatures between Celsius and Fahrenheit.
+<p>This project is a web-based temperature conversion tool, styled with a Batman theme. It allows users to convert temperatures between Celsius and Fahrenheit.</p><br>
 
-Features:
->Stylish Batman interface
->Accurate temperature conversions
->User-friendly input and output
+<ol>Features:
+  <li>Stylish Batman interface</li>
+  <li>Accurate temperature conversions</li>
+  <li>User-friendly input and output</li>
+</ol>
 
-How to Use:
-
-1)Enter the temperature value in the input field.
-2)Select the input temperature unit (Celsius or Fahrenheit).
-3)The converted temperature will be displayed in the other unit.
+<ol>How to Use:
+  <li>Enter the temperature value in the input field.</li>
+  <li>Select the input temperature unit (Celsius or Fahrenheit).</li>
+  <li>The converted temperature will be displayed in the other unit.</li>
+</ol>
