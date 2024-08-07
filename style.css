@@ -1,0 +1,58 @@
+body{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-image: linear-gradient(90deg, #191919, #232834);
+}
+form{
+  max-width: 350px;
+  text-align: center;
+  margin: auto;
+  margin-top: 75px;
+  padding: 20px;
+  background-color: #4A5575;
+  background-image: linear-gradient(90deg, #4A5575, #51649c);
+  border-radius: 15px;
+  box-shadow: 6px 6px 25px 12px #191919;
+}
+h1{
+  color:  #202540;
+  font-size: 25px;
+}
+#textbox{
+  width: 50%;
+  text-align: center;
+  font-size: 30px;
+  padding: 6px 14px;
+  border-radius: 15px;
+  border: 2px solid  #A79429;
+  background-color: #2e2e2e;
+  color: #F8F805;
+  margin-bottom: 10px;
+}
+#textbox:hover{
+  background-color: #191919;
+}
+#myButton{
+  font-size: 18px;
+  background-color: #2e2e2e;
+  color: #F8F805;
+  padding: 10px 10px;
+  margin-top: 10px;
+  box-shadow: 0px 0px 25px -10px #F8F805;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+}
+#myButton:hover{
+  background-color: #191919;
+  color: #F8F805;
+}
+label{
+  font-weight: bold;
+  color:  #202540;
+}
+p{
+  font-size: 22px;
+  font-weight: bold;
+  font-style: italic;
+  color: #191919;
+}
